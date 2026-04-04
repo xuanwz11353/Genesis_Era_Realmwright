@@ -208,7 +208,7 @@ Start by building your first cabin, gradually unlock magical mysteries, explore 
 > 游玩建议：
 - 1.**注意！！在1.2.1版本及以后，请忽略此提示！** 强烈建议您添加【静谧四季】或【Fabric Seasons】到mods 文件夹中
   
-- 2.建议您至少分配8GB运行内存
+- 2.建议您至少分配9～10+GB运行内存，使用Java22+
 
 - 3.你可以随意修改/升级mod，但是要注意：mod必须支持1.21.1fabric
   如果你在添加mod后遇到问题，请自行解决。（也可以找其他人/AI）
@@ -221,6 +221,8 @@ Start by building your first cabin, gradually unlock magical mysteries, explore 
 - 6.在**1.2.1fix及以后**，你可以在mods文件夹中找到被禁用的[真实物理PRO][遥远的地平线]两个mod，如果**你对你的电脑的性能有自信**，可以启用它们（删除文件后缀.disabled）
 
 - 7.在**3.0.1及以后**，你可以在resourcepaks文件夹中找到【自定义音乐.zip】文件，你可以根据https://github.com/CircuitLord/ReactiveMusic/blob/master/docs/MAKING_SONGPACKS.md 来自定义你喜欢的音乐
+
+- 8.建议为JVM添加G1GC参数以减少卡顿，可以使用PCL便捷配置
 
 > Play suggestions:
 - 1. **Note!! In version 1.2.1 and beyond, ignore this tip!** It is highly recommended that you add [SereneSeasons]or【Fabric Seasons】 to the mods folder
@@ -240,9 +242,11 @@ If you are having problems after adding mods, please solve them yourself. (You c
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-> **鸣谢：此整合包使用PCL制作，感谢每一位下载此整合包的玩家！**
+> **鸣谢：此整合包使用PCL+PCLCE制作，感谢每一位下载此整合包的玩家！**
+感谢gee123辅助我为整合包测试！
 
-> **Acknowledgements: This pack is made using PCL, thank you to everyone who downloaded this pack!**
+> **Acknowledgements: This pack is made using PCL&PCLCE, thank you to everyone who downloaded this pack!**
+THANTS TO GEE123 FOR TESTING THE MODPACK WITH ME!
 
 ---
 
