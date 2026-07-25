@@ -6,7 +6,7 @@
 
 ## 🌌 整合包概述
 
-「创世纪元：万象构筑」是一个**史诗级 Fabric 模组整合包**，专为追求极致游戏体验的玩家设计。本整合包以"创造与探索"为核心理念，将魔法奥秘、科技发展、建筑艺术与性能优化完美融合，为您打造一个无限可能的方块世界。
+「创世纪元：万象构筑」是一个**史诗级 Neoforge（fabric已弃用） 模组整合包**，专为追求极致游戏体验的玩家设计。本整合包以"创造与探索"为核心理念，将魔法奥秘、科技发展、建筑艺术与性能优化完美融合，为您打造一个无限可能的方块世界。
 
 > *"在这里，您不仅是世界的过客，更是万象的构筑者。"*
 
@@ -16,13 +16,12 @@
 
 ### 🔮 **魔法与神秘**
 - **多元魔法体系**：集成光谱世界、符文魔法、法术引擎等，构建完整的魔法生态
-- **维度探险**：天境、幽邃黑暗、永恒星光等多个神秘维度等待探索
+- **维度探险**：幽邃黑暗、帕斯特之梦（未完成）等多个神秘维度等待探索
 - **附魔革新**：通用附魔、我的世界地下城附魔系统，重定义装备强化
 
 ### 🏗️ **建筑与创造**
 - **完整建筑套件**：Macaw系列全套建筑模组，从门窗到家具一应俱全
 - **现代与古典融合**：MrCrayfish家具重制版与精巧手艺相辅相成
-- **地形塑造**：方块小镇、Excessive Building提供无限建筑可能
 
 ### 🌍 **世界与探索**
 - **生物群系扩展**：超多生物群系、我们走过的生物群系等重定义世界景观
@@ -32,7 +31,7 @@
 ### ⚡ **性能与优化**
 - **三重优化核心**：钠+锂+铁氧体磁芯确保流畅体验
 - **智能渲染**：实体渲染优化、树叶渲染优化提升帧数
-- **内存管理**：氪、火花等模组优化资源使用
+- **内存管理**：铁氧体磁芯等模组优化资源使用
 
 ### 🍳 **生活与农业**
 - **美食天堂**：农夫乐事重织为核心，数十个食物扩展模组
@@ -49,9 +48,8 @@
 - **便捷功能**：连锁破坏、搬运、自动钓鱼提升游戏效率
 
 ### 🧭 **探索与冒险**
-- **多重职业**：魔法师、巫师、战斗大师等多职业系统
 - **装备收集**：奇异饰品、更多不死图腾、旅行者背包
-- **交通方式**：沉浸式飞机提供全新移动体验
+- **交通方式**：沉浸式飞机与飞车奇匠提供全新移动体验
 
 ### 🏘️ **村民与交易**
 - **村庄革新**：更好的村庄、乡村酒馆重定义村民生活
@@ -63,7 +61,7 @@
 ## 🔄 独特机制
 
 ### 🌟 **季节系统**
-集成Fabric Seasons，为世界带来动态的季节变化，影响作物生长、生物行为和环境景观。
+集成Seasons，为世界带来动态的季节变化，影响作物生长、生物行为和环境景观。
 
 ### 🐾 **生物互动**
 - **宠物系统**：狐友、可爱仓鼠宠物丰富同伴选择
@@ -71,8 +69,7 @@
 
 ### 🎨 **视觉盛宴**
 - **光影支持**：Iris着色器兼容
-- **天空盒系统**：FabricSkyboxes提供动态天空
-- **粒子效果**：可视化、AAA粒子异步粒子优化视觉效果
+- **粒子效果**：可视化等优化视觉效果
 
 ---
 
@@ -80,10 +77,10 @@
 
 
 ### 🎯 **新手提示**
-- 开始游戏后先查看JEI了解合成表
+- 开始游戏后先查看EMI了解合成表
 - 使用玉模组查看方块和实体信息
 - 通过FTB任务系统获得引导性任务
-- 善用小地图功能辅助建造
+- 善用小地图功能
 
 ### 🏆 **终极目标**
 从建造第一间小屋开始，逐步解锁魔法奥秘、探索异界维度、建立自动化农场，最终成为这个万象世界的真正构筑者，创造属于您的传奇！
@@ -105,7 +102,7 @@
 
 ## 🌌 Pack Overview
 
-"Genesis Era: Realmwright" is an **epic Fabric modpack** designed for players seeking the ultimate gaming experience. With "creation and exploration" as its core philosophy, this pack perfectly integrates magical mysteries, technological development, architectural artistry, and performance optimization to create a block world of infinite possibilities.
+"Genesis Era: Realmwright" is an **epic Neoforge modpack** designed for players seeking the ultimate gaming experience. With "creation and exploration" as its core philosophy, this pack perfectly integrates magical mysteries, technological development, architectural artistry, and performance optimization to create a block world of infinite possibilities.
 
 > *"Here, you are not just a passerby in the world, but the architect of all things."*
 
@@ -114,14 +111,12 @@
 ## ✨ Core Features
 
 ### 🔮 **Magic & Mystery**
-- **Diverse Magic Systems**: Integrated Spectru m, Rune Magic, Spell Engine, and more to build a complete magical ecosystem
-- **Dimensional Exploration**: Aether, Deeper Darker, Eternal Starlight, and other mysterious dimensions await discovery
-- **Enchantment Revolution**: Dark Enchanting, Universal Enchants, Minecraft Dungeons Enchantment system redefine equipment enhancement
+- **Dimensional Exploration**: Deeper Darker, Eternal Starlight, and other mysterious dimensions await discovery
+- **Enchantment Revolution**: Universal Enchants, Minecraft Dungeons Enchantment system redefine equipment enhancement
 
 ### 🏗️ **Architecture & Creation**
 - **Complete Building Suite**: Full Macaw series building mods, from doors and windows to furniture
 - **Modern & Classical Fusion**: MrCrayfish's Refurbished Furniture complements Handcrafted
-- **Terrain Shaping**: Yuushya, Excessive Building provide unlimited building possibilities
 
 ### 🌍 **World & Exploration**
 - **Biome Expansion**: Biomes O' Plenty, Oh The Biomes We've Gone redefine world landscapes
@@ -131,7 +126,6 @@
 ### ⚡ **Performance & Optimization**
 - **Triple Optimization Core**: Sodium + Lithium + FerriteCore ensure smooth experience
 - **Smart Rendering**: Entity Culling, Cull Leaves boost frame rates
-- **Memory Management**: Krypton, Spark optimize resource usage
 
 ### 🍳 **Life & Agriculture**
 - **Culinary Paradise**: Farmer's Delight Refabricated as core, dozens of food expansion mods
