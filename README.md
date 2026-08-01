@@ -1,3 +1,6 @@
+<div align="center">
+  <a href="README-English.md" style="color: #0366d6; text-decoration: none;">English</a>
+</div>
 # 创世纪元：万象构筑
 
 > **Genesis Era: Realmwright**
