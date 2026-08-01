@@ -1,12 +1,14 @@
-# 创世纪元：万象构筑  
-**Genesis Era: Realmwright**
-(原名A-Better-Modpack)
+# 创世纪元：万象构筑
+
+> **Genesis Era: Realmwright**
+
+个人制作的 Minecraft 1.21.1 整合包，使用 **NeoForge**（Fabric 已弃用）。
 
 ---
 
-## 🌌 整合包概述
+## 整合包概述
 
-「创世纪元：万象构筑」是一个**史诗级 Neoforge（fabric已弃用） 模组整合包**，专为追求极致游戏体验的玩家设计。本整合包以"创造与探索"为核心理念，将魔法奥秘、科技发展、建筑艺术与性能优化完美融合，为您打造一个无限可能的方块世界。
+「创世纪元：万象构筑」是一个**史诗级 NeoForge 模组整合包**，专为追求极致游戏体验的玩家设计。本整合包以「创造与探索」为核心理念，将魔法奥秘、科技发展、建筑艺术与性能优化完美融合，为您打造一个无限可能的方块世界。
 
 > *"在这里，您不仅是世界的过客，更是万象的构筑者。"*
 
@@ -14,239 +16,103 @@
 
 ## ✨ 核心特色
 
-### 🔮 **魔法与神秘**
-- **多元魔法体系**：集成光谱世界、符文魔法、法术引擎等，构建完整的魔法生态
-- **维度探险**：幽邃黑暗、帕斯特之梦（未完成）等多个神秘维度等待探索
-- **附魔革新**：通用附魔、我的世界地下城附魔系统，重定义装备强化
+### 🔮 魔法与神秘
+- **多元魔法体系**：集成 Iron 的法术与魔法书、诡厄巫法等，构建完整的魔法生态
+- **维度探险**：暮色森林、幽邃黑暗、蜜蜂领域等多个神秘维度等待探索
+- **附魔革新**：通用附魔、附魔等级上限突破，重定义装备强化
 
-### 🏗️ **建筑与创造**
-- **完整建筑套件**：Macaw系列全套建筑模组，从门窗到家具一应俱全
-- **现代与古典融合**：MrCrayfish家具重制版与精巧手艺相辅相成
+### 🏗️ 建筑与创造
+- **完整建筑套件**：Macaw 系列全套建筑模组，从门窗到家具一应俱全
+- **现代与古典融合**：MrCrayfish 家具重制版与夸克的装饰模块相辅相成
+- **机械动力**：完整的 Create 模组及附属（中央厨房、物品附加、电气时代等），带来全新的自动化与机械建造体验
 
-### 🌍 **世界与探索**
-- **生物群系扩展**：超多生物群系、我们走过的生物群系等重定义世界景观
-- **地牢增强**：YUNG系列全面优化所有遗迹，地牢浮现之时添加全新冒险
-- **地图系统**：Xaero系列地图配合探险者指南针，助您畅游世界
+### 🌍 世界与探索
+- **生物群系扩展**：超多生物群系、我们走过的生物群系、未至之地等重定义世界景观
+- **地牢增强**：结构变体全面优化所有遗迹，Moog 系列结构模组添加全新冒险
+- **地图系统**：Xaero 系列地图配合探险者指南针，助您畅游世界
 
-### ⚡ **性能与优化**
-- **三重优化核心**：钠+锂+铁氧体磁芯确保流畅体验
-- **智能渲染**：实体渲染优化、树叶渲染优化提升帧数
-- **内存管理**：铁氧体磁芯等模组优化资源使用
+### ⚡ 性能与优化
+- **三重优化核心**：钠 + 锂 + 铁氧体磁芯确保流畅体验
+- **智能渲染**：实体渲染优化提升帧数
+- **内存管理**：铁氧体磁芯、AllTheLeaks 等模组优化资源使用
 
-### 🍳 **生活与农业**
-- **美食天堂**：农夫乐事重织为核心，数十个食物扩展模组
-- **农业革新**：更聪明的农夫、自动农场、作物盛景丰富耕作体验
+### 🌾 生活与农业
+- **美食天堂**：农夫乐事为核心，数十个食物扩展模组（潘马斯农场2、多元乐事、存储乐事等）
+- **农业革新**：作物盛景、自然主义丰富耕作与生态体验
 - **烹饪艺术**：从乡村乐事到凤梨乐事，打造独特美食文化
 
 ---
 
-## 🗺️ 游戏体验
+## 🎮 游戏体验
 
-### 🎮 **界面与品质生活**
-- **现代化UI**：全新界面设计，操作直观流畅
-- **动态环绕**：物理声效重制、脚步声增强沉浸感
-- **便捷功能**：连锁破坏、搬运、自动钓鱼提升游戏效率
+### 🖥️ 界面与品质生活
+- **现代化 UI**：全新界面设计，操作直观流畅
+- **动态环绕**：动态环境、脚步声增强沉浸感
+- **便捷功能**：连锁破坏、搬运、鼠标手势提升游戏效率
 
-### 🧭 **探索与冒险**
-- **装备收集**：奇异饰品、更多不死图腾、旅行者背包
+### 🗡️ 探索与冒险
+- **装备收集**：奇异饰品、更多的不死图腾、旅行者背包
 - **交通方式**：沉浸式飞机与飞车奇匠提供全新移动体验
 
-### 🏘️ **村民与交易**
-- **村庄革新**：更好的村庄、乡村酒馆重定义村民生活
-- **交易优化**：交易附魔显示、交易循环改善经济系统
-- **建筑生成**：结构池API确保世界建筑多样性
+### 🏘️ 村民与交易
+- **村庄革新**：更好的村庄、天空村庄、水下村庄重定义村民生活
+- **交易优化**：交易循环改善经济系统
+- **建筑生成**：结构池 API 确保世界建筑多样性
 
 ---
 
-## 🔄 独特机制
+## 🌟 独特机制
 
-### 🌟 **季节系统**
-集成Seasons，为世界带来动态的季节变化，影响作物生长、生物行为和环境景观。
+### 🐾 生物互动
+- **宠物系统**：狐友、可爱仓鼠宠物、车万女仆丰富同伴选择
+- **生物优化**：Mowzie 的生物、自然主义增强生态多样性
 
-### 🐾 **生物互动**
-- **宠物系统**：狐友、可爱仓鼠宠物丰富同伴选择
-- **生物优化**：更好的动物动作、自然生物增强生态多样性
-
-### 🎨 **视觉盛宴**
-- **光影支持**：Iris着色器兼容
-- **粒子效果**：可视化等优化视觉效果
+### 🎨 视觉盛宴
+- **光影支持**：Iris 着色器兼容
+- **粒子效果**：粒子雨、可视化等优化视觉效果
 
 ---
 
 ## 🚀 开始您的旅程
 
-
-### 🎯 **新手提示**
-- 开始游戏后先查看EMI了解合成表
+### 💡 新手提示
+- 开始游戏后先查看 EMI  了解合成表
 - 使用玉模组查看方块和实体信息
-- 通过FTB任务系统获得引导性任务
+- 通过 FTB 任务系统获得引导性任务
 - 善用小地图功能
 
-### 🏆 **终极目标**
+### 🏆 终极目标
 从建造第一间小屋开始，逐步解锁魔法奥秘、探索异界维度、建立自动化农场，最终成为这个万象世界的真正构筑者，创造属于您的传奇！
 
 ---
 
-## 💫 结语
+## 📦 安装方式
 
-「创世纪元：万象构筑」不仅仅是一个模组包，它是一个**活生生的世界**，一个等待被书写的**史诗故事**，一个属于创造者的**无限画布**。
-
-**开启您的创世之旅，构筑万象世界！**
-
----
-
-# Genesis Era: Realmwright
-(Formerly A-Better-Modpack)
+1. 使用 PCL / HMCL，将 GitHub 上下载的整合包文件拖入启动器
+   - 没有启动器？建议安装 [PCL2](https://github.com/Hex-Dragon/PCL2)
+2. 可参考网上教程
 
 ---
 
-## 🌌 Pack Overview
+## 💡 游玩建议
 
-"Genesis Era: Realmwright" is an **epic Neoforge modpack** designed for players seeking the ultimate gaming experience. With "creation and exploration" as its core philosophy, this pack perfectly integrates magical mysteries, technological development, architectural artistry, and performance optimization to create a block world of infinite possibilities.
-
-> *"Here, you are not just a passerby in the world, but the architect of all things."*
-
----
-
-## ✨ Core Features
-
-### 🔮 **Magic & Mystery**
-- **Dimensional Exploration**: Deeper Darker, Eternal Starlight, and other mysterious dimensions await discovery
-- **Enchantment Revolution**: Universal Enchants, Minecraft Dungeons Enchantment system redefine equipment enhancement
-
-### 🏗️ **Architecture & Creation**
-- **Complete Building Suite**: Full Macaw series building mods, from doors and windows to furniture
-- **Modern & Classical Fusion**: MrCrayfish's Refurbished Furniture complements Handcrafted
-
-### 🌍 **World & Exploration**
-- **Biome Expansion**: Biomes O' Plenty, Oh The Biomes We've Gone redefine world landscapes
-- **Dungeon Enhancement**: YUNG series comprehensively optimizes all structures, Dungeons Arise adds new adventures
-- **Mapping System**: Xaero series maps with Explorer's Compass help you navigate the world
-
-### ⚡ **Performance & Optimization**
-- **Triple Optimization Core**: Sodium + Lithium + FerriteCore ensure smooth experience
-- **Smart Rendering**: Entity Culling, Cull Leaves boost frame rates
-
-### 🍳 **Life & Agriculture**
-- **Culinary Paradise**: Farmer's Delight Refabricated as core, dozens of food expansion mods
-- **Agricultural Revolution**: Smarter Farmers, automatic farms, Croptopia enrich farming experience
-- **Culinary Arts**: From Rustic Delight to Pineapple Delight, creating unique food culture
+1. **内存分配**：建议至少分配 **8GiB** 运行内存，使用 **Java 21**
+2. **模组修改**：你可以随意修改/升级模组，但需注意模组必须支持 **1.21.1 NeoForge**。若添加模组后遇到问题，请自行解决
+3. **光影**：已为你准备了一些光影，也可自行添加至 `shaderpacks` 文件夹
+4. **问题反馈**：若在游玩中遇到问题，请提交至 Issue 并附上完整游戏日志（前提是未对整合包做任何修改）
+6. **自定义音乐**：在 `resourcepacks` 文件夹中找到 `GER自定义音乐`，可参考[此文档](https://github.com/CircuitLord/ReactiveMusic/blob/master/docs/MAKING_SONGPACKS.md)自定义音乐
+7. **JVM 参数**：建议为 JVM 添加 G1GC 参数以减少卡顿（PCL 可便捷配置）
 
 ---
 
-## 🗺️ Gaming Experience
+## 🙏 鸣谢
 
-### 🎮 **Interface & Quality of Life**
-- **Modern UI**: Redesigned interface with intuitive and smooth operation
-- **Dynamic Surroundings**: Sound Physics Remastered, Presence Footsteps enhance immersion
-- **Convenience Features**: FTB Ultimine, Carry On, Auto Fish improve gaming efficiency
-
-### 🧭 **Exploration & Adventure**
-- **Multiple Professions**: Wizards, Sorcerers, Battle Masters and other profession systems
-- **Equipment Collection**: Artifacts, More Totems, Traveler's Backpack
-- **Transportation**: Immersive Aircraft provides new movement experience
-
-### 🏘️ **Villagers & Trading**
-- **Village Revolution**: Better Villages, Village Taverns redefine villager life
-- **Trading Optimization**: Trade Enchantment Display, Trade Cycling improve economic system
-- **Structure Generation**: Structure Pool API ensures world building diversity
+此整合包使用 PCL + PCLCE 制作，感谢每一位下载此整合包的玩家！特别感谢 **gee123** 辅助测试！
 
 ---
 
-## 🔄 Unique Mechanics
+## 📄 许可证
 
-### 🌟 **Season System**
-Integrated Fabric Seasons, bringing dynamic seasonal changes to the world, affecting crop growth, creature behavior, and environmental landscapes.
-
-### 🐾 **Creature Interaction**
-- **Pet System**: Fox Friend, Adorable Hamster Pets enrich companion choices
-- **Creature Optimization**: Better Animations Collection, Living Things enhance ecological diversity
-
-### 🎨 **Visual Feast**
-- **Shaders Support**: Iris Shaders compatible
-- **Skybox System**: FabricSkyboxes provides dynamic skies
-- **Particle Effects**: Particle Rain, Async Particles optimize visual effects
-
----
-
-## 🚀 Start Your Journey
-
-### 🎯 **Beginner Tips**
-- Check JEI for recipes when starting the game
-- Use Jade mod to view block and entity information
-- Follow FTB Quests system for guided tasks
-- Utilize Litematica and minimap features to assist building
-
-### 🏆 **Ultimate Goal**
-Start by building your first cabin, gradually unlock magical mysteries, explore alternate dimensions, establish automated farms, and ultimately become the true architect of this realm of all things, creating your own legend!
-
----
-
-## 💫 Conclusion
-
-"Genesis Era: Realmwright" is not just a modpack - it's a **living world**, an **epic story** waiting to be written, an **infinite canvas** for creators.
-
-**Begin your genesis journey, construct the realm of all things!**
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-> 安装方式
- 
-- 1.使用PCL/HMCL，把GitHub上下载的MRPACK文件拖到启动器中。
-    - 没有启动器？建议安装PCL：https://github.com/Hex-Dragon/PCL2 网上有使用教程
-
-- 2.可以去网上搜教程
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-> 游玩建议：
-- 1.**注意！！在1.2.1版本及以后，请忽略此提示！** 强烈建议您添加【静谧四季】或【Fabric Seasons】到mods 文件夹中
-  
-- 2.建议您至少分配9～10+GB运行内存，使用Java22+
-
-- 3.你可以随意修改/升级mod，但是要注意：mod必须支持1.21.1fabric
-  如果你在添加mod后遇到问题，请自行解决。（也可以找其他人/AI）
-
-- 4.我已经为你准备了一些光影，你可以使用它们来获得更好的体验（也可以添加自己的光影到sharderpacks文件夹中）
-
-- 5.如果你在游玩中遇到问题，请提交到issue中并附上完整游戏日志，我会解决它（前提是你并未对modpack做任何修改）
-  （由于部分原因，我处理的速度可能比较慢，我希望如果你有能力可以自己解决它，你可以提交到issue上并附加解决方案，在下一次更新中我会修复此问题，我十分感谢你的帮助：)）
-
-- 6.在**1.2.1fix及以后**，你可以在mods文件夹中找到被禁用的[真实物理PRO][遥远的地平线]两个mod，如果**你对你的电脑的性能有自信**，可以启用它们（删除文件后缀.disabled）
-
-- 7.在**3.0.1及以后**，你可以在resourcepaks文件夹中找到【自定义音乐.zip】文件，你可以根据https://github.com/CircuitLord/ReactiveMusic/blob/master/docs/MAKING_SONGPACKS.md 来自定义你喜欢的音乐
-
-- 8.建议为JVM添加G1GC参数以减少卡顿，可以使用PCL便捷配置
-
-> Play suggestions:
-- 1. **Note!! In version 1.2.1 and beyond, ignore this tip!** It is highly recommended that you add [SereneSeasons]or【Fabric Seasons】 to the mods folder
-
-- 2. It is recommended that you allocate at least 8GB of RAM
-
-- 3. You can modify/upgrade mods as you like, but be careful: mods must support 1.21.1fabric
-If you are having problems after adding mods, please solve them yourself. (You can also find someone else/AI)
-
-- 4. I have prepared some sharderpacks for you that you can use for a better experience (you can also add your own sharderpacks to the sharderpacks folder)
-
-- 5. If you encounter problems while playing, please submit it to the issue with the full game log, and I will fix it (provided you have not made any changes to the modpack)
-(For some reason, I may be slow to handle it, I hope you can solve it yourself, commit it to the issue and attach the solution, I really appreciate your help :)）
-
-- 6. In **1.2.1fix and later**, you can find the disabled [Physics mod PRO] [Distant Horizon] two mods in the mods folder, if you **are confident in your computer's performance**, you can enable them (delete the file suffix .disabled)
-- 7. In **version 3.0.1 and later**, you can find the 【自定义音乐.zip】 file in the resourcepaks folder, and you can customize your favorite music according to https://github.com/CircuitLord/ReactiveMusic/blob/master/docs/MAKING_SONGPACKS.md
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-> **鸣谢：此整合包使用PCL+PCLCE制作，感谢每一位下载此整合包的玩家！**
-感谢gee123辅助我为整合包测试！
-
-> **Acknowledgements: This pack is made using PCL&PCLCE, thank you to everyone who downloaded this pack!**
-THANTS TO GEE123 FOR TESTING THE MODPACK WITH ME!
-
----
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
-## 📜 许可证  
-本整合包代码及配置采用 [MIT License]  
+本整合包代码及配置采用 [MIT License](LICENSE)。  
 第三方模组（资源）版权归原作者所有。
+
